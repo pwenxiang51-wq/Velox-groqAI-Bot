@@ -156,3 +156,15 @@ async function fetchGroqWithHistory(messages, env) {
 
 ## 📝 许可证
 MIT License. 自由分发，请保留 **Velo.x AI** 出处。
+
+---
+
+### ☕ 请我喝杯咖啡 (Buy Me a Coffee)
+
+如果你觉得这个项目对你有帮助，欢迎请作者喝杯咖啡！你的支持是我持续维护的最大动力。🚀
+
+| 微信支付 (WeChat Pay) |
+| :---: |
+| ![微信收款码](./donate.jpg) |
+
+> **提示**：赞赏请备注 "Velo-AI"，感谢每一位支持技术开源的大佬！
