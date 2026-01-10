@@ -152,17 +152,9 @@ async function fetchGroqWithHistory(messages, env) {
 }
 ```
 
----
-
-## 📝 许可证
-MIT License. 自由分发，请保留 **Velo.x AI** 出处。
-
 <div align="center">
-  <img src="donate.jpg" width="260" style="border-radius: 10px; border: 1px solid #30363d;">
-  
+  <img src="donate.jpg" width="220" style="border-radius: 8px;">
   <br>
-
-  <img src="https://img.shields.io/badge/微信支付-WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  
-  <p><b>☕ 请作者喝杯咖啡，支持持续更新</b></p>
+  <p><b>微信支付 | WeChat Pay</b></p>
+  <p>☕ 请作者喝杯咖啡，支持持续更新</p>
 </div>
