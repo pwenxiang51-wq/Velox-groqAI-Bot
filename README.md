@@ -152,9 +152,13 @@ async function fetchGroqWithHistory(messages, env) {
 }
 ```
 
-<div align="center">
-  <img src="donate.jpg" width="220" style="border-radius: 8px;">
-  <br>
-  <p><b>微信支付 | WeChat Pay</b></p>
-  <p>☕ 请作者喝杯咖啡，支持持续更新</p>
-</div>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="donate.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
+  <p style="font-size: 16px; font-weight: bold; margin-top: 12px;">
+    微信支付 (WeChat Pay)
+  </p>
+  <p style="font-size: 14px; color: #777;">
+    ☕ 請作者喝杯咖啡，支持持續更新
+  </p>
+</div>>
