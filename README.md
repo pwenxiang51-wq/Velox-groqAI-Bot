@@ -159,12 +159,20 @@ MIT License. 自由分发，请保留 **Velo.x AI** 出处。
 
 ---
 
-### ☕ 请我喝杯咖啡 (Buy Me a Coffee)
+### ☕ 赞赏支持 (Sponsor)
 
-如果你觉得这个项目对你有帮助，欢迎请作者喝杯咖啡！你的支持是我持续维护的最大动力。🚀
+如果您觉得本项目对您有帮助，欢迎请作者喝杯咖啡。您的每一份支持都是我持续更新的动力！🚀
 
-| 微信支付 (WeChat Pay) |
-| :---: |
-| ![微信收款码](./donate.jpg) |
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="donate.jpg" width="250" style="border-radius: 10px; border: 2px solid #30363d;">
+        <br>
+        <img src="https://img.shields.io/badge/微信支付-WeChat_Pay-07C160?style=flat-square&logo=wechat&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-> **提示**：赞赏请备注 "Velo-AI"，感谢每一位支持技术开源的大佬！
+> **提示**：感谢每一位支持技术开源的大佬！
