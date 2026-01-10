@@ -157,22 +157,12 @@ async function fetchGroqWithHistory(messages, env) {
 ## 📝 许可证
 MIT License. 自由分发，请保留 **Velo.x AI** 出处。
 
----
-
-### ☕ 赞赏支持 (Sponsor)
-
-如果您觉得本项目对您有帮助，欢迎请作者喝杯咖啡。您的每一份支持都是我持续更新的动力！🚀
-
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="donate.jpg" width="250" style="border-radius: 10px; border: 2px solid #30363d;">
-        <br>
-        <img src="https://img.shields.io/badge/微信支付-WeChat_Pay-07C160?style=flat-square&logo=wechat&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <img src="donate.jpg" width="260" style="border-radius: 10px; border: 1px solid #30363d;">
+  
+  <br>
 
-> **提示**：感谢每一位支持技术开源的大佬！
+  <img src="https://img.shields.io/badge/微信支付-WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  
+  <p><b>☕ 请作者喝杯咖啡，支持持续更新</b></p>
+</div>
