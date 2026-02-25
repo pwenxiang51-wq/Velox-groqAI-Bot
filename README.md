@@ -55,13 +55,14 @@ async function fetchGroqWithHistory(messages, env) {
 }
 ```
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="donate.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  
-  <p style="font-size: 16px; font-weight: bold; margin-top: 12px;">
-    微信支付 (WeChat Pay)
-  </p>
-  <p style="font-size: 14px; color: #777;">
-    ☕ 請作者喝杯咖啡，支持持續更新
-  </p>
-</div>>
+## ☕ 作者与支持
+
+如果觉得这个项目对你有帮助，欢迎给我一个 **Star** ⭐️！
+
+如果你想支持我的持续开发，可以通过微信扫码请我喝杯咖啡，这是我最大的动力！
+
+<div align="center">
+  <img src="coffee.jpg" alt="Velox 赞赏码" width="300" />
+  <br>
+  <p><b>感谢 Velox 大佬！</b></p>
+</div>
