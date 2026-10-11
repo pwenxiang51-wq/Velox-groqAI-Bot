@@ -59,10 +59,3 @@ async function fetchGroqWithHistory(messages, env) {
 
 如果觉得这个项目对你有帮助，欢迎给我一个 **Star** ⭐️！
 
-如果你想支持我的持续开发，可以通过微信扫码请我喝杯咖啡，这是我最大的动力！
-
-<div align="center">
-  <img src="coffee.jpg" alt="Velox 赞赏码" width="300" />
-  <br>
-  <p><b>感谢 Velox 大佬！</b></p>
-</div>
